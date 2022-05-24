@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ds-measure
+module github.com/b582q9/go-ds-measure
 
 require (
 	github.com/ipfs/go-datastore v0.0.1
