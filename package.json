@@ -1,10 +1,10 @@
 {
   "author": "whyrusleeping",
   "bugs": {
-    "url": "https://github.com/ipfs/go-ds-measure"
+    "url": "https://github.com/b582q9/go-ds-measure"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ds-measure"
+    "dvcsimport": "github.com/b582q9/go-ds-measure"
   },
   "gxDependencies": [
     {
